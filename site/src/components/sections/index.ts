@@ -1,0 +1,11 @@
+export { Benefits } from "./Benefits";
+export { Contact } from "./Contact";
+export { CTA } from "./CTA";
+export { FAQ } from "./FAQ";
+export { Footer } from "./Footer";
+export { Plans } from "./Plans";
+export { Problems } from "./Problems";
+export { Process } from "./Process";
+export { Services } from "./Services";
+export { Stats } from "./Stats";
+export { Testimonials } from "./Testimonials";
